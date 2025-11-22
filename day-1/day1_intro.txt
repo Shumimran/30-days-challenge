@@ -1,2 +1,1 @@
 Hello, AI world
-AI (Artificial Intelligence) is the technology that helps computers think and learn like humans. It can recognize patterns, make decisions, and solve problems. AI is used in apps like chatbots, self-driving cars, and recommendation systems. As a beginner, I am excited to learn how AI works and how to build small projects using it.
